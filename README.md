@@ -126,7 +126,7 @@ private void FixedUpdate() {
 
 ```
 
-Так же будут приведены фрагменты кода из файла EnergyShield.
+Так же будет приведен код из файла EnergyShield.
 
 ```c#
 using System.Collections;
