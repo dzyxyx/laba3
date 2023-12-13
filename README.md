@@ -173,6 +173,9 @@ public class EnergyShield : MonoBehaviour
 
 ```
 
+## ССЫЛКА НА ГУГЛ ДИСК С ПЕРЕДЕЛАННОЙ ИГРОЙ
+ссылка: https://drive.google.com/drive/folders/1kHFZIQ1XQ4XCehfYcPxy9WmCFROHHq_b?usp=sharing
+
 ## Выводы
 По итогам данной лабораторной работы получилось забалансить 10 уровней сложности для игры Dragon Picker.
 
